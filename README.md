@@ -3,6 +3,24 @@ Duration: Aug 2024 – Nov 2024
 
 Technologies: Python, TensorFlow, CNN
 
- This project involves building a deep learning model using TensorFlow and Convolutional Neural Networks (CNNs) to detect brain cancer from medical images. The model is trained on a dataset of brain MRI scans and classifies images into cancerous or non-cancerous categories. Image preprocessing techniques were used to enhance accuracy. Validation was done using standard metrics such as accuracy and loss. This project demonstrates the use of AI in medical diagnostics and real-world healthcare applications.
+Developed an AI model using TensorFlow and CNNs to detect brain cancer from MRI images.
+
+Focused on high-accuracy classification of brain tumors.
+
+Handled data preprocessing, augmentation, and splitting for model training.
+
+Validated performance using test sets and confusion matrices.
+
+Used real-world datasets for training to ensure robustness.
+
+Achieved strong accuracy with minimal overfitting.
+
+Designed for potential integration into clinical diagnostics.
+
+Applied deep learning and medical image analysis skills.
+
+Focused on healthcare innovation and AI for good.
+
+Project demonstrates ability in Python, DL, and healthcare tech.
 
 
